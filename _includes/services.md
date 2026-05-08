@@ -1,16 +1,21 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Board & Affiliations</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li>Board member, <a href="https://iapp.org/about/ai-governance-center/"><autocolor>IAPP AI Governance Center</autocolor></a></li>
+  <li>Member, <a href="https://oecd.ai/en/network-of-experts"><autocolor>OECD Network of Experts on AI (ONE AI)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Teaching</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>AI Governance, <a href="https://www.uclawsf.edu/"><autocolor>UC Law SF</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Advisory</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li>AI safety collaboration with <a href="https://www.safer-ai.org/"><autocolor>SaferAI</autocolor></a></li>
+  <li>Independent advisory on AI compliance, technology policy, and policy strategy</li>
 </ul>
