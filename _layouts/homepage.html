@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{ site.affiliation }}{% if site.affiliation_2 %}, {{ site.affiliation_2 }}{% endif %}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,6 +51,10 @@
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.affiliation_2 %}
+        <a href="{{ site.affiliation_link_2 }}" rel="noopener"><autocolor>{{ site.affiliation_2 }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
