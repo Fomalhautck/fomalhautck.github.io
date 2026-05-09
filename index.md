@@ -14,7 +14,7 @@ I am advising on AI compliance, Tech policy, and policy strategy. Reach out if y
 
 ## News
 
-- **[March 2026]** Joined paper on general validity within the GPAI CoP.
+- **[May 2026]** **Announcing the Summer 2026 Law & Artificial Intelligence Certificate program.** LexLab is excited to host the next LAIC program from July 27–29, 2026. [Learn More](https://lexlab.uclawsf.edu/)
 
 {% include_relative _includes/publications.md %}
 
