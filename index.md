@@ -14,6 +14,8 @@ I am advising on AI compliance, Tech policy, and policy strategy. Reach out if y
 
 ## News
 
+- **[August 2026]** **Law & Artificial Intelligence Certificate (LAIC) — Tokyo.** Jointly offered by the Graduate Schools for Law and Politics, Faculty of Law, The University of Tokyo and UC Law San Francisco LexLab. Five intensive days — August 21, 26, 27, 28, and 31, 2026 (9:00 a.m.–5:00 p.m. each day). [Learn More](https://lexlab.uclawsf.edu/)
+
 - **[May 2026]** **Announcing the Summer 2026 Law & Artificial Intelligence Certificate program.** LexLab is excited to host the next LAIC program from July 27–29, 2026. [Learn More](https://lexlab.uclawsf.edu/)
 
 {% include_relative _includes/publications.md %}
